@@ -1,5 +1,5 @@
 //   all ------------------
-function initIshabrato() {
+function initSHITIJ() {
     "use strict";
     //   loader ------------------
     $(".pin").text("Loading");
@@ -893,5 +893,5 @@ function initparallax() {
 //   Init All ------------------
 $(function () {
     initparallax();
-    initIshabrato();
+    initSHITIJ();
 });
